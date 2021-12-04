@@ -1,1 +1,14 @@
-[]
+[
+  {
+  "name":"Google Pixel 3"
+  "price":227700
+  },
+  {
+  "name":"Pixel Chromebook"
+  "price":12000
+  },
+  {
+  "name":"Chromebookcast"
+  "price":1400
+   }
+]
